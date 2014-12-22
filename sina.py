@@ -15,8 +15,6 @@ code = "5f9f84b2aa3198032416963c84c2d182"
 app_key = "4055744185"
 app_secret = "838ec8be666e6116c4e483ed14e5fea4"
 redirect_uri = "https://api.weibo.com/oauth2/default.html"
-user_name = '412062385@qq.com'
-pwd = 'googlesina'
 
 class SinaCrawler:
 	def __init__(self, max_page):
